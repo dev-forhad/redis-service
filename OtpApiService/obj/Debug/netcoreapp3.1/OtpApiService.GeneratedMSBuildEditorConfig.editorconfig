@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OtpApiService
+build_property.ProjectDir = F:\Dot net Practice\OtpWithRedis\FirstApp\OtpApiService\
